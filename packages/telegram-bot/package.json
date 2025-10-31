@@ -1,0 +1,23 @@
+{
+  "name": "@my-workspace/telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "packageManager": "yarn@4.10.3",
+  "scripts": {
+    "serve": "nodemon -r dotenv/config ./src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.17.2",
+    "dotenv": "^16.4.7",
+    "node-telegram-bot-api": "^0.66.0",
+    "numeral": "^2.0.6"
+  },
+  "devDependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "node-cron": "^3.0.3",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2",
+    "uuid": "^11.0.5"
+  }
+}

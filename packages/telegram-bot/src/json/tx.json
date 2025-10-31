@@ -1,0 +1,204 @@
+[
+  {
+    "date": "2024-12-29",
+    "exchange": "Upbit",
+    "amount": 50000
+  },
+  {
+    "date": "2024-12-29",
+    "exchange": "Korbit",
+    "amount": 3300000
+  },
+  {
+    "date": "2024-12-29",
+    "exchange": "Korbit",
+    "amount": 1000000
+  },
+  {
+    "date": "2024-12-29",
+    "exchange": "Korbit",
+    "amount": 500000
+  },
+  {
+    "date": "2024-12-30",
+    "exchange": "Korbit",
+    "amount": 1300000
+  },
+  {
+    "date": "2024-12-31",
+    "exchange": "Korbit",
+    "amount": 3000000
+  },
+  {
+    "date": "2025-01-01",
+    "exchange": "Korbit",
+    "amount": 5000000
+  },
+  {
+    "date": "2025-01-02",
+    "exchange": "Korbit",
+    "amount": 5000021
+  },
+  {
+    "date": "2025-01-04",
+    "exchange": "Korbit",
+    "amount": 2000000
+  },
+  {
+    "date": "2025-01-05",
+    "exchange": "Korbit",
+    "amount": 2000000
+  },
+  {
+    "date": "2025-01-10",
+    "exchange": "Upbit",
+    "amount": 2000000
+  },
+  {
+    "date": "2025-01-11",
+    "exchange": "Korbit",
+    "amount": 4000000
+  },
+  {
+    "date": "2025-01-11",
+    "exchange": "Korbit",
+    "amount": 1000000
+  },
+  {
+    "date": "2025-01-16",
+    "exchange": "Upbit",
+    "amount": -14597746
+  },
+  {
+    "date": "2025-01-18",
+    "exchange": "Korbit",
+    "amount": -254653
+  },
+  {
+    "date": "2025-01-20",
+    "exchange": "Upbit",
+    "amount": -65280
+  },
+  {
+    "date": "2025-01-21",
+    "exchange": "Korbit",
+    "amount": 5000000
+  },
+  {
+    "date": "2025-01-25",
+    "exchange": "Korbit",
+    "amount": 1500000
+  },
+  {
+    "date": "2025-01-26",
+    "exchange": "Upbit",
+    "amount": -6550031
+  },
+  {
+    "date": "2025-01-27",
+    "exchange": "Korbit",
+    "amount": 2948746
+  },
+  {
+    "date": "2025-01-29",
+    "exchange": "Upbit",
+    "amount": -9898957
+  },
+  {
+    "date": "2025-01-29",
+    "exchange": "Upbit",
+    "amount": -2299352
+  },
+  {
+    "date": "2025-01-29",
+    "exchange": "Korbit",
+    "amount": 26000000
+  },
+  {
+    "date": "2025-01-30",
+    "exchange": "Upbit",
+    "amount": 13794
+  },
+  {
+    "date": "2025-02-01",
+    "exchange": "Upbit",
+    "amount": -1831256
+  },
+  {
+    "date": "2025-02-01",
+    "exchange": "Korbit",
+    "amount": 5000221
+  },
+  {
+    "date": "2025-02-02",
+    "exchange": "Korbit",
+    "amount": 5000000
+  },
+  {
+    "date": "2025-02-02",
+    "exchange": "Korbit",
+    "amount": 700000
+  },
+  {
+    "date": "2025-02-04",
+    "exchange": "Korbit",
+    "amount": 5000000
+  },
+  {
+    "date": "2025-02-08",
+    "exchange": "Korbit",
+    "amount": 1500000
+  },
+  {
+    "date": "2025-02-09",
+    "exchange": "KuCoin",
+    "amount": 32562
+  },
+  {
+    "date": "2025-02-09",
+    "exchange": "Korbit",
+    "amount": 5000000
+  },
+  {
+    "date": "2025-02-09",
+    "exchange": "Korbit",
+    "amount": 24000000
+  },
+  {
+    "date": "2025-02-11",
+    "exchange": "Korbit",
+    "amount": 5000000
+  },
+  {
+    "date": "2025-02-14",
+    "exchange": "Upbit",
+    "amount": -20910587
+  },
+  {
+    "date": "2025-02-15",
+    "exchange": "Korbit",
+    "amount": 5000000
+  },
+  {
+    "date": "2025-02-15",
+    "exchange": "Korbit",
+    "amount": 1000000,
+    "note": "Meteora Auto Trading"
+  },
+  {
+    "date": "2025-02-15",
+    "exchange": "Korbit",
+    "amount": 5000000
+  },
+  {
+    "date": "2025-02-15",
+    "exchange": "Korbit",
+    "amount": 3000000,
+    "note": "Meteora Auto Trading"
+  },
+  {
+    "date": "2025-02-15",
+    "exchange": "Korbit",
+    "amount": -3001250
+  }
+]
