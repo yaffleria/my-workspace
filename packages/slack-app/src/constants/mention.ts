@@ -1,0 +1,5 @@
+export const HUMAN_A = '<@U0169B4EHB5>'
+export const HUMAN_B = '<@UTW1PC5S9>'
+export const HUMAN_C = '<@U02B6PF1LHX>'
+export const HUMAN_D = '<@U02BWG5AC0M>'
+export const TEAM = '<!subteam^S057D4FH2TB>'
